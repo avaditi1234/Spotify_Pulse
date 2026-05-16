@@ -61,11 +61,6 @@ Through this project, I improved my skills in:
 
 ---
 
-# 📷 Dashboard Preview
-
-(Add dashboard screenshots here)
-
----
 
 # ⭐ Conclusion
 
